@@ -1,7 +1,23 @@
 ### Hi there 👋
-# I’m currently working on "Fiday" an online education platform.
-# How to reach me: https://www.linkedin.com/in/pragati2112/
-# On going project:"Document Analysis, chargrid approach for understanding 2d-structured documents" The research paper I am following, here is the link(https://arxiv.org/abs/1809.08799). Must read it for better understanding. You can see my github repo here(https://github.com/sciencefictionlab/chargrid-pytorch).
+
+I’m currently working on "Fiday" an online education platform.
+
+  - You can find the software running at fiday.io.
+  - Freeday is an online education platform. It allows educators to take their business online with minimal risk involved.
+  - Platform consists of robust video handling. AWS infrastructure is used for media distribution.
+
+On going project:
+  - "Document Analysis, chargrid approach for understanding 2d-structured documents" 
+  - The research paper I am following, here is the [link](https://arxiv.org/abs/1809.08799). Must read it for better understanding. 
+  - You can see my github repo [here](https://github.com/sciencefictionlab/chargrid-pytorch).
+
+How to reach me: https://www.linkedin.com/in/pragati2112/
+
+
+
+
+
+
 
 
 <!--
