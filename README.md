@@ -20,12 +20,12 @@ In Machine learning--
   - Check out my article - [Explaining Network Architecture of chargrid-pytorch](https://medium.com/analytics-vidhya/implementing-chargrid-network-architecture-cc21eb3d68f8)
 
 
-  -Contributed in covid-19 stats dashboard by Science Fiction Lab(as a backend developer)
-  -here, is website link -  [here](https://covid19.scifilab.io/)
-  -did comparitive study and analysis across countries like India, Switzerland and USA
-  -visualisation of infected, recovered and death cases(line graphs, pie charts, bar graphs) of all countries
-  -data from valid sources
-  -technologies used- starlette(a python framework) at backend and Vue.js at frontend.
+  - Contributed in covid-19 stats dashboard by Science Fiction Lab(as a backend developer)
+  - Here, is website link -  [here](https://covid19.scifilab.io/)
+  - Did comparitive study and analysis across countries like India, Switzerland and USA
+  - Visualisation of infected, recovered and death cases(line graphs, pie charts, bar graphs) of all countries
+  - Data from valid sources
+  - Technologies used- starlette(a python framework) at backend and Vue.js at frontend.
 
 I write on medium as well- you can check-out my articles [here](https://medium.com/@pandeypragati2112) 
 
