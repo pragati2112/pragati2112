@@ -1,7 +1,8 @@
 # Hi there 👋
 
-### I’m currently working on "PULSE Timesheets software"--
+### Building a "Timesheets software"--
   - Online time tracking software, track work hours and generates powerful reports.
+  - Complete automation.
   - you can check out our website  [here](https://pulse.allps.ch/)
   - Technology stack used- Fastapi and Vue.js. 
  
