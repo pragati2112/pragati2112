@@ -2,8 +2,8 @@
 
 ### Building a "Timesheets software"--
   - Online time tracking software, track work hours and generates powerful reports.
-  - Complete automation.
-  - you can check out our website  [here](https://pulse.allpsdigital.com/)
+  - Project management, task management, Complete automation.
+  - you can check out our website  [here](https://pulsein.io/)
   - Technology stack used- Fastapi and Vue.js. 
  
 &nbsp;
