@@ -1,17 +1,20 @@
 # Hi there 👋
 
-### Building a "Timesheets software"--
-  - Online time tracking software, track work hours and generates powerful reports.
-  - Project management, task management, Complete automation.
-  - you can check out our website  [here](https://pulsein.io/)
-  - Technology stack used- Fastapi and Vue.js. 
+### Building a "✨ Timesheets software ✨"--
+  - Online work time tracking software, track work hours, track project expenses and generates powerful reports.
+  - Project management, employee management, task management and leave management with complete automation.
+  - Complete database encryption (Cleint side field level encryption used).
+  - Used RBAC (Role Based Authentication)
+  - You can check out our website  [here](https://pulsein.io/)
+  - Integrations and Pulse browser extension are on the way. 
+  - Technology stack used- Fastapi(python framework) and Vue.js. 
  
 &nbsp;
 ## On going projects:       
 
 
 ### "Fiday" an online education platform--
-  - You can find the software running at fiday.io.
+  - You can find the software running at  [here](fiday.io).
   - Freeday is an online education platform. It allows educators to take their business online with minimal risk involved.
   - Platform consists of robust video handling. AWS infrastructure is used for media distribution.
 
