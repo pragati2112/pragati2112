@@ -5,7 +5,7 @@
   - Project management, employee management, task management and leave management with complete automation.
   - Complete database encryption (Cleint side field level encryption used).
   - Used RBAC (Role Based Authentication)
-  - You can check out our website  [here](https://pulsein.io/)
+  - You can check out our website  [here](https://next.pulsein.io/)
   - Integrations and Pulse browser extension are on the way. 
   - Technology stack used- Fastapi(python framework) and Vue.js. 
  
