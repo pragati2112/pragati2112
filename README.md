@@ -1,9 +1,9 @@
 # Hi there 👋
 
-### Building a "✨ Timesheets software[here](https://next.pulsein.io/) ✨"--
-  - Online work time tracking software, track work hours, track project expenses and generates powerful reports.
+### Building a "✨ [Timesheets software](https://next.pulsein.io/) ✨"--
+  - Online work time tracking software, track work hours, track project expenses, and generates powerful reports.
   - Project management, employee management, task management and leave management with complete automation.
-  - Complete database encryption (Cleint side field level encryption used).
+  - Complete database encryption (Client-side field level encryption used).
   - Used RBAC (Role Based Authentication)
   - Technology stack used- Fastapi(python framework) and Vuejs3. 
   - Used pinia, a lightweight state management library.
@@ -16,20 +16,19 @@
 ### Document Intelligence
   - "Document Analysis, chargrid approach for understanding 2d-structured documents" 
   - The research paper I am following, here is the [link](https://arxiv.org/abs/1809.08799). Must read it for better understanding. 
-  - You can see my github repo [here](https://github.com/sciencefictionlab/chargrid-pytorch).
+  - You can see my Github repo [here](https://github.com/sciencefictionlab/chargrid-pytorch).
   - Check out my article - [Explaining Network Architecture of chargrid-pytorch](https://medium.com/analytics-vidhya/implementing-chargrid-network-architecture-cc21eb3d68f8)
 
 
-### Contributed in covid-19 stats dashboard by Science Fiction Lab(as a backend developer)
+### Contributed to covid-19 stats dashboard by Science Fiction Lab(as a backend developer)
   - Here, is website link -  [here](https://covid19.scifilab.io/)
-  - Did comparitive study and analysis across countries like India, Switzerland and USA
-  - Visualisation of infected, recovered and death cases(line graphs, pie charts, bar graphs) of all countries
+  - Did comparative study and analysis across countries like India, Switzerland, and the USA
+  - Visualisation of infected, recovered, and dead cases(line graphs, pie charts, bar graphs) of all countries
   - Data from valid sources
-  - Technologies used- starlette(a python framework) at backend and Vue.js at frontend.
+  - Technologies used- starlette(a python framework) at the backend and Vue.js at the frontend.
 
 
 ### "Fiday" an online education platform
-  - You can find the software running at  [here](fiday.io).
   - Freeday is an online education platform. It allows educators to take their business online with minimal risk involved.
   - Platform consists of robust video handling. AWS infrastructure is used for media distribution.
 
