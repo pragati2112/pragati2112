@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Building a "✨ [Timesheets software](https://next.pulsein.io/) ✨"--
+### Building a ✨ [Timesheets software](https://next.pulsein.io/) ✨
   - Online work time tracking software, track work hours, track project expenses, and generates powerful reports.
   - Project management, employee management, task management and leave management with complete automation.
   - Complete database encryption (Client-side field level encryption used).
