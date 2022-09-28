@@ -1,5 +1,17 @@
 # Hi there 👋
 
+### GoTypi - An open source simplest shared code editor
+  - Written in Golang
+  - Used Gin framework for apis and Gobwas/ws websocket library 
+  - Soon it'll be online
+
+### LightLogger - An open source log visualiser (inspired by [lnav](https://lnav.org/))
+  - A lightweight log visualiser/parser for docker, docker-compose, file-system logs and beyond
+  - Fastapi - A Python framework used
+  - Using Vite for frontend development
+  - currently in development
+
+
 ### Building a ✨ [Timesheets software](https://next.pulsein.io/) ✨
   - Online work time tracking software, track work hours, track project expenses, and generates powerful reports.
   - Project management, employee management, task management and leave management with complete automation.
@@ -8,17 +20,17 @@
   - Technology stack used- Fastapi(python framework) and Vuejs3. 
   - Used pinia, a lightweight state management library.
   - Integrations and Pulse browser extension are on their way. 
- 
-&nbsp;
-## On going projects:   
-
-
-### Document Intelligence
+  
+  
+  ### Document Intelligence
   - "Document Analysis, chargrid approach for understanding 2d-structured documents" 
   - The research paper I am following, here is the [link](https://arxiv.org/abs/1809.08799). Must read it for better understanding. 
   - You can see my Github repo [here](https://github.com/sciencefictionlab/chargrid-pytorch).
   - Check out my article - [Explaining Network Architecture of chargrid-pytorch](https://medium.com/analytics-vidhya/implementing-chargrid-network-architecture-cc21eb3d68f8)
-
+ 
+ 
+&nbsp;
+## Worked on:   
 
 ### Contributed to covid-19 stats dashboard by Science Fiction Lab(as a backend developer)
   - Here, is website link -  [here](https://covid19.scifilab.io/)
