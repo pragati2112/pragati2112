@@ -7,8 +7,7 @@
 
 ### LightLogger - An open source log visualiser (inspired by [lnav](https://lnav.org/))
   - A lightweight log visualiser/parser for docker, docker-compose, file-system logs and beyond
-  - Fastapi - A Python framework used
-  - Using Vite for frontend development
+  - Using Fastapi (Python framework) for backend, Vite for frontend development
   - currently in development
 
 
