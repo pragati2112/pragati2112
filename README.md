@@ -1,9 +1,8 @@
 # Hi there 👋
 
-### GoTypi - An open source simplest shared code editor
+### [GoTypi](https://gotypi.in) - An open source simplest shared code editor
   - Written in Golang
   - Used Gin framework for apis and Gobwas/ws websocket library 
-  - Soon it'll be online
 
 ### LightLogger - An open source log visualiser (inspired by [lnav](https://lnav.org/))
   - A lightweight log visualiser/parser for docker, docker-compose, file-system logs and beyond
