@@ -1,5 +1,7 @@
 # Hi there 👋
 
+Software Engineer with an experience of building micro-service oriented back-end systems and managing projects. Cultivated a deep understanding of machine learning and artificial intelligence.  
+
 ### ALLPS.ai - Gen AI powered Smarter Matching, Faster Hiring [allps.ai](https://allps.ai/)
   - An intelligent hiring platform for recruiters
   - Using Fastapi (Python framework) for backend, Vite for frontend development
