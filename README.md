@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### ALLPS.ai - Gen AI powered Smarter Matching, Faster Hiring [allps.ai](https://allps.ai/))
+### ALLPS.ai - Gen AI powered Smarter Matching, Faster Hiring [allps.ai](https://allps.ai/)
   - An intelligent hiring platform for recruiters
   - Using Fastapi (Python framework) for backend, Vite for frontend development
   - Using LLMs for smart matching, generating job description and information extraction from resumes(parsing)
