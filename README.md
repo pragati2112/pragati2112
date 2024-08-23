@@ -52,7 +52,7 @@ Software Engineer with experience of building micro-service oriented back-end sy
 #### How to reach me: https://www.linkedin.com/in/pragati2112/
 
 
-
+[![Pragati's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragati2112)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
